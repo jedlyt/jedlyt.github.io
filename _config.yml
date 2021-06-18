@@ -17,13 +17,13 @@ sidebar-avatar: /img/title.jpg      # use absolute URL, seeing it's used in both
 
 
 # SNS settings
-# RSS: true
-# weibo_username:     生财有涛
-# zhihu_username:     生财有涛
-# github_username:    qiubaiying
+RSS: false
+weibo_username:     生财有涛
+zhihu_username:     生财有涛
+github_username:    jedlyt
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
-# twitter_username:   @jedlyt
+twitter_username:   jedlyt
 
 
 
